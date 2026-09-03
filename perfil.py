@@ -1,3 +1,7 @@
-print("Mi perfil"
+print("Mi perfil")
 nombre = input("Escribe tu nombre: ")
-printf("Hola {nombre})
+print("Hola", nombre)
+edad = int (input("Ingresa tu edad:"))
+print("Tu edad es:", edad)
+print("Felicidades")
+print("Estoy colaborando en este proyecto")
