@@ -8,3 +8,7 @@ print("Estoy colaborando en este proyecto")
 print("Colaboro nuevamente con este línea de código :)")
 
 print("Este es un intento de Querén de subir un cambio a main ")
+print("En mi rama querenrama")
+#pedir matrícula
+matrícula=int(input("INGRESA TU MATRÍCULA:  "))
+print("Tu matrícula es:     ", matrícula)
